@@ -19,7 +19,7 @@
 
 ## Common Uses of Ping
 
-1. Check Connectivity: Verify if a device, server, or website is reachable.
+1. **Check Connectivity:** Verify if a device, server, or website is reachable.
    **Example: ping google.com**
 2. **Measure Network Performance:** Identify latency issues between devices.
 3. **Troubleshoot Network Problems:** Determine if packet loss or delays are causing issues.
