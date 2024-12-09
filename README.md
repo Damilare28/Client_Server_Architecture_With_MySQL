@@ -11,7 +11,7 @@ Implementing a Client-Server Architecture using MySQL Database Management System
 
 ## On mysql server Linux Server install MySQL Server software.
 
-    1. **Update your package index:** Before installing MySQL, it's a good practice to update your system's package list to ensure you have the latest package information.
+1. **Update your package index:** Before installing MySQL, it's a good practice to update your system's package list to ensure you have the latest package information.
 
        sudo apt update
 
